@@ -2,3 +2,6 @@ new file
 new text
 new text1
 new text2
+
+Data from setAAA
+mars1
